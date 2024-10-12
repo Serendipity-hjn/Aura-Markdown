@@ -1,4 +1,4 @@
-TODO 完善配置
+
 # 配置信息
 要自定义 Markdown 文件的 CSS，请按`cmd-shift-p`，然后运行`Markdown Preview Enhanced: Customize CSS (Global)`或`Markdown Preview Enhanced: Customize CSS (Workspace)`命令。
 
